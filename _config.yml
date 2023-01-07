@@ -21,16 +21,16 @@ timezone: America/Los_Angeles
 
 title: Glo's World                          # the main title
 
-tagline: A text-focused Jekyll theme   # it will display as the sub-title
+tagline: I'll figure it out...   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
+  A blog about adulting practically.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: ''
 
 github:
-  username: github_username             # change to your github username
+  username: GloBerry             # change to your github username
 
 twitter:
   username: twitter_username            # change to your twitter username
@@ -42,8 +42,8 @@ social:
   email: example@domain.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username      # change to your twitter homepage
-    - https://github.com/username       # change to your github homepage
+    # - https://twitter.com/username      # change to your twitter homepage
+    - https://github.com/GloBerry       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -81,7 +81,7 @@ theme_mode:   # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/138631193_479786663423148_6009510509789891328_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=100&_nc_ohc=PlK0TK8K7IcAX9xswuo&edm=ABmJApABAAAA&ccb=7-5&oh=00_AfCX4bjq0kRjRvrbUB17uy2gXuqGYwRBww9Gf_VF0rJ3-g&oe=63BE1B99
 
 # boolean type, the global switch for ToC in posts.
 toc: true
